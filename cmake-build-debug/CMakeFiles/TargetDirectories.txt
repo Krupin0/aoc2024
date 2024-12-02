@@ -1,0 +1,3 @@
+/home/jakub/aoc/cmake-build-debug/CMakeFiles/aoc.dir
+/home/jakub/aoc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jakub/aoc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
