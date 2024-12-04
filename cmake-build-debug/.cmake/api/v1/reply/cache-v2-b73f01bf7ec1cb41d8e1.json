@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/jakub/aoc/cmake-build-debug"
+			"value" : "/home/jakub/aoc2024/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "29"
+			"value" : "30"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "6"
+			"value" : "5"
 		},
 		{
 			"name" : "CMAKE_COLOR_DIAGNOSTICS",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/296/bin/cmake/linux/x64/bin/cmake"
+			"value" : "/snap/clion/305/bin/cmake/linux/x64/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/296/bin/cmake/linux/x64/bin/cpack"
+			"value" : "/snap/clion/305/bin/cmake/linux/x64/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/296/bin/cmake/linux/x64/bin/ctest"
+			"value" : "/snap/clion/305/bin/cmake/linux/x64/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -543,7 +543,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/jakub/aoc/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/jakub/aoc2024/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -603,7 +603,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/jakub/aoc"
+			"value" : "/home/jakub/aoc2024"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -655,7 +655,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/snap/clion/296/bin/ninja/linux/x64/ninja"
+			"value" : "/snap/clion/305/bin/ninja/linux/x64/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -887,7 +887,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29"
+			"value" : "/snap/clion/305/bin/cmake/linux/x64/share/cmake-3.30"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1163,7 +1163,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/jakub/aoc/cmake-build-debug"
+			"value" : "/home/jakub/aoc2024/cmake-build-debug"
 		},
 		{
 			"name" : "aoc_IS_TOP_LEVEL",
@@ -1187,7 +1187,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/jakub/aoc"
+			"value" : "/home/jakub/aoc2024"
 		}
 	],
 	"kind" : "cache",
